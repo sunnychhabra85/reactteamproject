@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/17112e25-c5cf-4445-b3e5-2c3e953d4297/resourceGroups/virtualoffice/providers/Microsoft.Web/sites/virtualoffice",
+    "appService.deploySubpath": "build"
+}
